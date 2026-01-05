@@ -3,7 +3,8 @@ Flask-SQLAlchemy
 Flask-Login
 Flask-Mail
 Flask-Bcrypt
+Flask-WTF
+WTForms
 Pillow
 itsdangerous==2.0.1
-flask_wtf
 gunicorn
