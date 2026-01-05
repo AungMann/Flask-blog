@@ -4,4 +4,5 @@ Flask-Login
 Flask-Mail
 Flask-Bcrypt
 Pillow
+itsdangerous==2.0.1
 gunicorn
