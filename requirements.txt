@@ -5,6 +5,7 @@ Flask-Mail
 Flask-Bcrypt
 Flask-WTF
 WTForms
+email-validator
 Pillow
 itsdangerous==2.0.1
 gunicorn
